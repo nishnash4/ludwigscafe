@@ -1,0 +1,47 @@
+.splash {
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 0;
+    font-size: 55px;
+}
+
+.downline {
+    margin: 0 auto;
+    background-image: url(../ASSETS/downline.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 275px;
+    height: 65px;
+    padding-left: 0;
+}
+
+.payge {
+    display: flex;
+    justify-content: center;
+}
+
+.map {
+    border: 5px;
+    border-color: #f7a603;
+    border-style: solid;
+}
+
+.maaap {
+    padding-left: 15px;
+}
+
+.locinfo {
+    text-align: right;
+    padding-top: 100px;
+    width: 510px;
+    padding-right: 15px;
+}
+
+.locinfo {
+    font-size: 16px;
+}
+
+.address {
+    font-size: 20px;
+}
