@@ -87,6 +87,11 @@
     font-size: 0.9em;
 }
 
+.price,
+.desc {
+    font-size: 0.9em;
+}
+
 .price {
     font-weight: 700;
 }
