@@ -18,7 +18,7 @@ div.header {
 
 div.toplogo {
     position: relative;
-    background-image: url(../ASSETS/ludwigslogo.png);
+    background-image: url(../assets/ludwigslogo.png);
     height: 150px;
     width: 278px;
     background-repeat: no-repeat;
@@ -90,7 +90,7 @@ div.feet {
 }
 
 div.smlogo {
-    background-image: url(../ASSETS/ludwigslogo.png);
+    background-image: url(../assets/ludwigslogo.png);
     width: 200px;
     height: 108px;
     background-repeat: no-repeat;

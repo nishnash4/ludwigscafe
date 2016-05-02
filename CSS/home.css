@@ -11,7 +11,7 @@
 
 .downline {
     margin: 0 auto;
-    background-image: url(../ASSETS/downline.png);
+    background-image: url(../assets/downline.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -33,7 +33,7 @@
 }
 
 .restau {
-    background-image: url(../ASSETS/restau.jpg);
+    background-image: url(../assets/restau.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -65,7 +65,7 @@
 }
 
 .outside {
-    background-image: url(../ASSETS/outside.jpg);
+    background-image: url(../assets/outside.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

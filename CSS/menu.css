@@ -11,7 +11,7 @@
 
 .downline {
     margin: 0 auto;
-    background-image: url(../ASSETS/downline.png);
+    background-image: url(../assets/downline.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -28,7 +28,7 @@
 }
 
 .quicksep {
-    background-image: url(../ASSETS/quickhr.png);
+    background-image: url(../assets/quickhr.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
