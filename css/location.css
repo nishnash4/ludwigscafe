@@ -49,3 +49,8 @@
 .address {
     font-size: 20px;
 }
+
+.mapframe {
+    width: 500px;
+    height: 375px;
+}

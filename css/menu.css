@@ -29,7 +29,7 @@
 
 .quicksep {
     background-image: url(../assets/quickhr.png);
-    background-position: center;
+    background-position: left;
     background-repeat: no-repeat;
     background-size: contain;
     width: 222px;
