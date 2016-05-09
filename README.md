@@ -1,2 +1,2 @@
 # Ludwig’s Center Stage Cafe
-This repo is a working website created for Ludwig’s Center Stage Cafe in downtown Rochester, NY.
+Ludwig's Center Stage Cafe in Rochester, NY provides fresh homemade meals that work with a college student's budget.
