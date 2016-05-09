@@ -2,6 +2,10 @@
     font-size: 1em;
 }
 
+.paygewidth {
+    width: 100%;
+}
+
 .splash {
     margin: 0 auto;
     text-align: center;
@@ -90,5 +94,16 @@
 
 .linky {
     text-align: center;
+    margin: 0 auto;
+}
+
+.moblinky {
+    text-align: center;
+    margin: 0 auto;
+    display: none;
+}
+
+.mobilelinks {
+    width: 100%;
     margin: 0 auto;
 }
