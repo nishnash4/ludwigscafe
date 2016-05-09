@@ -1,5 +1,10 @@
-1318
+@media only screen and (max-width: 1060px) {
+    html,
+    body {
+        font-size: 18px;
+    }
+}
 
-@media only screen and (max-width: 1318px) {
+@media only screen and (max-width: 975px) {
     
 }
