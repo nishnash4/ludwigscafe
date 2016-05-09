@@ -21,15 +21,17 @@
 }
 
 .payge {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    text-align: center;
+    width: 60%;
+    margin: 0 auto;
 }
 
-.col1,
-.col2 {
-    padding: 0 35px;
+.row1,
+.row2 {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .restau {
@@ -42,14 +44,16 @@
     border: 5px;
     border-style: solid;
     border-color: #f7a603;
+    margin: auto;
 }
 
 .explore {
     font-size: 1.3em;
     width: 300px;
     height: 230px;
-    padding-top: 75px;
     line-height: 35px;
+    margin: auto;
+    padding-top: 70px;
 }
 
 .explore a {
@@ -60,8 +64,8 @@
     font-size: 1.3em;
     width: 300px;
     height: 150px;
-    padding-top: 60px;
-    margin: 0 auto;
+    margin: auto;
+    padding-top: 35px;
 }
 
 .outside {
@@ -74,10 +78,15 @@
     border: 5px;
     border-style: solid;
     border-color: #f7a603;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .phnum {
     line-height: 50px;
     color: #f7a603;
+}
+
+.box {
+    width: 50%;
+    height: 240px;
 }

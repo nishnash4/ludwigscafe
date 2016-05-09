@@ -21,36 +21,18 @@
     div.toplogo {
         height: 140px;
     }
+    
+    .outside {
+        height: 200px;
+        width: 140px;
+    }
+    
+    .restau {
+        height: 200px;
+        width: 270px;
+    }
 
 }
-
-/*
-@media only screen and (max-width: 900px) {
-
-    html,
-    body {
-        font-size: 16px;
-    }
-
-    .leftcol,
-    .rightcol {
-        width: 375px;
-    }
-
-    .downline {
-        height: 45px;
-    }
-    
-    .quicksep {
-        height: 8px;
-    }
-    
-    div.toplogo {
-        height: 130px;
-    }
-    
-}
-*/
 
 @media only screen and (max-width: 900px) {
     
@@ -84,7 +66,18 @@
     }
     
     .moblinky {
+        display: table;
+        margin: 0 auto;
+    }
+    
+    .row1,
+    .row2 {
         display: block;
+    }
+    
+    .box {
+        margin: 0 auto;
+        width: 100%;
     }
     
 }
@@ -104,8 +97,34 @@
         font-size: 20px;
     }
     
+    .navigation {
+    	display: none;
+    }
+    
 }
 
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 500px) {
+
+	html,
+	body {
+		font-size: 13px;
+	}
+
+	.menue {
+		font-size: 16px;
+	}
+	
+	.leftcol,
+	.rightcol {
+		width: 300px;
+	}
+	
+	div.feet {
+		width: 100%;
+	}
+	
+	div.linkbar {
+		width: 95%;
+	}
     
 }
