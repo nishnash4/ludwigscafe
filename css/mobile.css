@@ -31,6 +31,20 @@
         height: 200px;
         width: 270px;
     }
+    
+    .specialsec {
+        width: 500px;
+    }
+    
+    .mapframe {
+        width: 325px;
+        height: 200px;
+    }
+    
+    .locinfo {
+        padding-top: 30px;
+        width: 350px;
+    }
 
 }
 
@@ -47,7 +61,8 @@
     }
     
     .leftcol,
-    .rightcol {
+    .rightcol,
+    .specialsec{
         padding: 0;
         margin: 0 auto;
         width: 475px;
@@ -78,6 +93,38 @@
     .box {
         margin: 0 auto;
         width: 100%;
+        height: 200px;
+    }
+    
+    .callin {
+        padding-top: 0px;
+    }
+    
+    .explore {
+        padding-top: 80px;
+    }
+    
+    .payge {
+        display: block;
+    }
+    
+    .locinfo {
+        padding-top: 0;
+        text-align: center;
+        margin: 0 auto;
+        padding-right: 0;
+    }
+    
+    .maaap {
+        padding-left: 0;
+        padding-bottom: 50px;
+        width: 500px;
+        margin: 0 auto;
+    }
+    
+    .mapframe {
+        width: 490px;
+        height: 290px;
     }
     
 }
@@ -115,7 +162,8 @@
 	}
 	
 	.leftcol,
-	.rightcol {
+	.rightcol,
+    .specialsec{
 		width: 300px;
 	}
 	
@@ -126,5 +174,31 @@
 	div.linkbar {
 		width: 95%;
 	}
+    
+    .restau {
+        height: 110px;
+        width: 180px;
+    }
+    
+    .explore {
+        width: 190px;
+        padding-top: 0px;
+    }
+    
+    .callin {
+        width: 190px;
+    }
+    
+    .maaap {
+        width: 300px;
+    }
+    
+    .mapframe {
+        width: 290px;
+    }
+    
+    .locinfo {
+        width: 90%;
+    }
     
 }
