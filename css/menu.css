@@ -47,7 +47,8 @@
 .quichetitle,
 .saladtitle,
 .souptitle,
-.sidetitle {
+.sidetitle,
+.catertitle {
     font-size: 1em;
     padding: 0 15px;
     line-height: 30px;
