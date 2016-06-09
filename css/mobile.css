@@ -127,6 +127,10 @@
         height: 290px;
     }
     
+    div.linkbar {
+        width: 90%;
+    }
+    
 }
 
 @media only screen and (max-width: 700px) {
@@ -173,6 +177,7 @@
 	
 	div.linkbar {
 		width: 95%;
+        font-size: 0.9em;
 	}
     
     .restau {
