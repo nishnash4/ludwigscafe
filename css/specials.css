@@ -63,3 +63,12 @@
     padding-left: 15px;
     text-align: center;
 }
+
+.specialframe {
+    width: 100%;
+    height: 528px;
+    border: 5px;
+    border-color: #f7a603;
+    border-style: solid;
+    background-color: #e1e1e1;
+}
