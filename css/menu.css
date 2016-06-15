@@ -48,7 +48,8 @@
 .saladtitle,
 .souptitle,
 .sidetitle,
-.catertitle {
+.catertitle,
+.jazzloc {
     font-size: 1em;
     padding: 0 15px;
     line-height: 30px;
@@ -93,7 +94,8 @@
     font-weight: 700;
 }
 
-.caterinfo {
+.caterinfo,
+.jazzinfo {
     text-align: center;
 }
 
@@ -109,4 +111,33 @@
 
 .mobilelinks {
     width: 100%;
+}
+
+.jazz901 {
+    margin: 0 auto;
+    width: 329px;
+    height: 106px;
+    border: 5px;
+    border-color: #f7a603;
+    border-style: solid;
+    padding: 5px;
+    background-image: url(../assets/jazz901.gif);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: black;
+}
+
+.jazzfest {
+    margin: 0 auto;
+    width: 237px;
+    height: 364px;
+    border: 5px;
+    border-color: #f7a603;
+    border-style: solid;
+    background-image: url(../assets/jazzfest.gif);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
 }
