@@ -21,7 +21,7 @@
 }
 
 .payge {
-    width: 60%;
+    width: 50%;
     margin: 0 auto;
 }
 
@@ -34,36 +34,32 @@
     margin: 0 auto;
 }
 
-.restau {
-    background-image: url(../assets/restau.jpg);
+.lpic {
+    background-image: url(../assets/jazzfest.gif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 300px;
-    height: 230px;
+    width: 237px;
+    height: 364px;
     border: 5px;
     border-style: solid;
     border-color: #f7a603;
     margin: auto;
 }
 
-.explore {
+.rdesc {
     font-size: 1.3em;
-    width: 300px;
-    height: 230px;
     line-height: 35px;
     margin: auto;
     padding-top: 70px;
 }
 
-.explore a {
+.rdesc a {
     color: #f7a603;
 }
 
 .callin {
     font-size: 1.3em;
-    width: 300px;
-    height: 150px;
     margin: auto;
     padding-top: 35px;
 }
@@ -84,9 +80,4 @@
 .phnum {
     line-height: 50px;
     color: #f7a603;
-}
-
-.box {
-    width: 50%;
-    height: 240px;
 }
