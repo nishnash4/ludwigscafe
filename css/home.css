@@ -26,7 +26,8 @@
 }
 
 .row1,
-.row2 {
+.row2,
+.row3 {
     display: flex;
     justify-content: space-around;
     align-content: center;
@@ -34,7 +35,7 @@
     margin: 0 auto;
 }
 
-.lpic {
+.jazzpic {
     background-image: url(../assets/jazzfest.gif);
     background-position: center;
     background-repeat: no-repeat;
@@ -47,7 +48,7 @@
     margin: auto;
 }
 
-.rdesc {
+.jazzdesc {
     font-size: 1.3em;
     line-height: 35px;
     margin: auto;
@@ -55,9 +56,11 @@
     margin-top: 100px;
 }
 
-.rdesc a {
+.jazzdesc a {
     color: #f7a603;
 }
+
+
 
 .callin {
     font-size: 1.3em;
@@ -81,5 +84,30 @@
 
 .phnum {
     line-height: 50px;
+    color: #f7a603;
+}
+
+.restau {
+    background-image: url(../assets/restau.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 230px;
+    border: 5px;
+    border-style: solid;
+    border-color: #f7a603;
+    margin: auto;
+}
+
+.explore {
+    font-size: 1.3em;
+    line-height: 35px;
+    margin: auto;
+    padding: 20px;
+    padding-top: 60px;
+}
+
+.explore a {
     color: #f7a603;
 }
